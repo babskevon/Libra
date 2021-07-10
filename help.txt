@@ -1,0 +1,46 @@
+
+TOPIC
+    Libra Version 1.5.0 Help Document
+
+SHORT DESCRIPTION
+    Displays help about LIbra Use. 
+
+LONG DESCRIPTION
+    Libra Help describes a few shortcuts and how to use Libra software to improve
+    and get familiar with the package.
+    This software is intended to improve efficiency in libraries that are still using
+    native documents to store and access library information.
+    This software was made as user friendly as possible so we hope you may not need
+    much of this document as there is nothing much in it.
+
+  ONLINE HELP    
+    Currently there is no online help but you can reach us at babskevon@gmail.com
+    edrinkevin1@gmail.com 
+
+  HELP
+	For first time use:
+	    you need to import all the available data into the system
+	    using import books and import students
+	To Import:
+	    On running libra, excel files of students.xlsx and books.xlsx
+	    are created in your documents folder.
+	    Get any say books.xlsx,copy it somewhere else and fill in the information
+            as required and save.
+	    Navigate to import students tab and browse your file, upload it and verify
+ 	    that everything is okay then save.
+	    
+	    Do the same for students though it is adviseable that you import only students
+	    who are currently defaulting by filling in the students.xlsx file.
+
+	To borrow Book:
+	    Press Ctrl + B and Enter details of borrower then press submit
+
+	To clear Borrower:
+	    Press Ctrl + C and Enter Book unique number then submit
+
+	To Add single book or file:
+	    Press Ctrl + A and Enter details in the dialog box then submit
+
+	TO generate Defaulter List:
+	    Press Ctrl + R and use the Navigation box, Defaulter list will be created in 
+	    documents folder.
